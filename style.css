@@ -1,0 +1,109 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    margin: auto;
+    background-color: rgb(32, 32, 32);
+}
+
+button {
+    width: 22vh;
+    height: 7vh;
+    background-color: #2fff2b;
+    border: 0;
+    margin: 0;
+    outline: none;
+    font-size: 3vh;
+    border-radius: 1vh;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+a {
+    margin: 0;
+    width: 100%;
+    text-decoration: none;
+    outline: none;
+    border: 0;
+}
+
+h1 {
+    margin: 0;
+    color: white;
+}
+
+h4 {
+    color: white;
+}
+
+h6 {
+    color: white;
+}
+
+.info_box {
+    height: 25vh;
+    background-color: transparent;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 3vh;
+    display: grid;
+    justify-items: center;
+    align-items: center;
+}
+
+.h1_1 {
+    margin-bottom: 0.1vh;
+    height: 4vh;
+    display: block;
+}
+
+.info_1 {
+    margin-bottom: 14vh;
+    display: block;
+    font-size: 1.5vh;
+    color: #2fff2b;
+    height: 20vh;
+    text-align: center;
+}
+
+.social_links_div {
+    width: 40vh;
+    height: 40vh;
+    background-color: rgb(22, 22, 22);
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    border-radius: 1vh;
+    align-items: center;
+}
+
+.github_btn {}
+
+.social_links_h1 {
+    text-align: center;
+    margin: 0;
+}
+
+.siteinfo {
+    width: 100%;
+    height: 25vh;
+    background-color: rgb(22, 22, 22);
+    margin-top: 8vh;
+    display: block;
+}
+
+.magizestudio_h1 {
+    text-align: center;
+}
+
+.gith_soc {
+    text-align: center;
+}
+
+.dc_ser {
+    text-align: center;
+}
